@@ -1,0 +1,15 @@
+**Media Integration One Pager**  
+**Hunter Patchett**
+
+**Common uses of Media Integration in 3D RPGs**  
+There’s a ton of freedom for implementing media in 3D RPGs. Cutscenes and voice acting are common for games that have a narrative story line or to emphasize importance of elements in the game. A game that I’ve been playing recently, Clair Obscur: Expedition 33, uses these well to convey the story and to introduce tough battles. Typically, there’s a trigger when you enter a certain area or travel somewhere new that starts the cutscene. Another popular use of media in RPGs is music, especially for contributing to the atmosphere and the setting of the game. FromSoftware, the developers who made Dark Souls and Elden Ring, among others, do a great job at incorporating music into the game to enhance the environment, or set an intense tone during a boss battle.
+
+**Two Strategies to incorporate into the game**  
+One would be including cinematic cutscenes into the game, these could trigger as you approach a new area, as you pick up an item, or interact with a character. These cutscenes could tell a narrative story, introduce a new character, or start an enemy encounter. These are mostly made with animation, there are a lot of tools available to produce 3D animation, and game tools like Unreal Engine include ways to create and put cutscenes into the game. Higher end production companies have used motion capture and real actors to create their cutscenes, a good example is the production of the scenes in God of War (2018) was really fascinating (1). 
+
+Music has also been used a lot in gaming. Some common ways to incorporate music into games include boss fights, which normally features a high-RPM song to enhance the intensity of the battle. Another creative way is having a song play in the background as you play, which can contribute to the atmosphere when you’re exploring. A different song will play in the background depending on which area you’re in, a different song for outdoors, inside the castle, and underground, for example. Music is also incorporated into cutscenes to add to the emotional pull the director is going for, which is similar to movies.
+
+**How I would approach incorporating media into my game**  
+I am not going for a narrative storyline, so I don’t think I’ll incorporate too many cutscenes for that purpose. However, I think it would be cool to have a short cutscene to introduce the boss because it would emphasize its importance over other enemies. I would also like to have background music to contribute to the atmosphere and the charm of the game when you’re exploring the area. I would also have music playing while fighting the boss to emphasize its importance and that it’s the end of the level. I already have sound effects for walking, being hit, and for swinging the axe, but I’ll add additional sound effects for different enemies to add a level of immersion to the game. 
+
+Source: (1) [https://www.youtube.com/watch?v=HVXoOK4R8M0](https://www.youtube.com/watch?v=HVXoOK4R8M0)   
