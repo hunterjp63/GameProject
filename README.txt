@@ -1,4 +1,4 @@
-I, Hunter Patchett, worked on this project by myself.
+I, Hunter Patchett, worked on this project by myself. This includes the level design, implementing animations, the game logic, the UI and damage mechanics, the media integration, save states, splash screens, and everything else.
 
 Here is the link to the video demonstration: https://drive.google.com/file/d/1K73ox4nurR4MZ45bbJtLHloGSQ3yUo2P/view?usp=sharing
 
